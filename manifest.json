@@ -1,0 +1,12 @@
+{
+  "domain": "tp_link_network_switch_",
+  "name": "TP-Link Network Switch Stats",
+  "codeowners": ["ross.mcwilliams@mahss.io"],
+  "dependencies": [],
+  "integration_type": "hub",
+  "iot_class": "local_polling",
+  "requirements": ["beautifulsoup4==4.11.1"],
+  "loggers": [],
+  "version": "0.1.0",
+  "config_flow": true
+}

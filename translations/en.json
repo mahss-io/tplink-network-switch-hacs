@@ -1,0 +1,23 @@
+{
+    "title": "TP Link Network Switch Stats",
+    "config": {
+        "step": {
+            "user": {
+                "title": "Add a TP Link Network Switch",
+                "data": {
+                    "host": "Host",
+                    "username": "Username",
+                    "password": "Password"
+                }
+            },
+            "finish": {
+                "title": "Finish",
+                "data": {
+                    "host": "Host",
+                    "username": "Username",
+                    "password": "Password"
+                }
+            }
+        }
+    }
+}
